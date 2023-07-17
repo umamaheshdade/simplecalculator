@@ -1,0 +1,34 @@
+.arraining-buttons{
+    display: flex;
+    flex-direction: row;
+}
+.button1 {
+    height:45px;
+    width:100%;
+    background-color: black;
+    color:aliceblue;
+    border-radius:10px;
+    font-size:15px;
+    margin-left:5px;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+
+}
+.resultbox {
+    width:100%;
+    height:70px;
+    border-width: 4px;
+    border-style:solid;
+    border-radius:10px;
+    font-size: 30px;
+}
+
+.icon1 {
+    color:aliceblue;
+    font-size:15px;
+}
